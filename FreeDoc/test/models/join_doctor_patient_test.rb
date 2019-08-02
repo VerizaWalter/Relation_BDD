@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class DealWithItTest < ActiveSupport::TestCase
+class JoinDoctorPatientTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
